@@ -1,0 +1,73 @@
+body.body{
+    background-color: bisque;
+}
+
+h1.titulo{
+    font-weight: bolder;
+    color: darkred;
+    text-align: center;
+}
+
+p.lacarta{
+    color: purple;
+    text-decoration: underline;
+    position: relative;
+    top: 50px;
+}
+
+p.elcafe{
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+
+p.contacto{
+    position: relative;
+    top: 150px;
+    text-align: right;
+}
+
+hr.lineaseparatoriabaja{
+    position: relative;
+    top: 160px;
+}
+
+p.texto_main{
+    color: brown;
+}
+
+hr.lacarta{
+    color: lightgray;
+}
+
+p.texto_main_cont{
+    color: brown;
+    text-align: center;
+    font-weight: bolder;
+}
+
+p.texto_contacto{
+    color: brown;
+    font-weight: bolder;
+    text-align: left;
+}
+
+h3.h3{
+    color: darkred;
+}
+
+main.main{
+    color: brown;
+}
+
+ol.romanos{
+    list-style-type: upper-roman;
+}
+
+ol.letras{
+    list-style-type: lower-alpha;
+}
+
+ul.ul{
+    list-style-type: circle;
+}
